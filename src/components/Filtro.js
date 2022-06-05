@@ -4,7 +4,6 @@ export const Filtro = ({texto,setTexto}) => {
     const handleInputChange = ({target}) => {
         setTexto(target.value)
     }
-
     const handleSubmit= (e) => {
         e.preventDefault()
 
@@ -21,3 +20,5 @@ export const Filtro = ({texto,setTexto}) => {
         </section>
     )
 }
+
+2222
