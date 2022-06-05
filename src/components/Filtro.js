@@ -20,5 +20,3 @@ export const Filtro = ({texto,setTexto}) => {
         </section>
     )
 }
-
-2222
